@@ -1,7 +1,7 @@
 :root {
-  ---fadeout-duration: 0.5s;
-  ---fadeout-delay: 3.5s;
-  ---sparkle-rotation-duration: 1.5s;
+  --fadeout-duration: 0.5s;
+  --fadeout-delay: 3.5s;
+  --sparkle-rotation-duration: 1.5s;
 }
 
 body {
@@ -27,7 +27,7 @@ body {
   position: relative;
   width: 300px;
   height: 600px;
-  animation: fadeOut var(---fadeout-duration) ease-out var(---fadeout-delay) forwards;
+  animation: fadeOut var(--fadeout-duration) ease-out var(--fadeout-delay) forwards;
 }
 
 svg {
@@ -37,7 +37,7 @@ svg {
 }
 
 .sparkle {
-  animation: sparkleRotation var(---sparkle-rotation-duration) ease-out forwards;
+  animation: sparkleRotation var(--sparkle-rotation-duration) ease-out forwards;
 }
 
 .outlined-triangle {
