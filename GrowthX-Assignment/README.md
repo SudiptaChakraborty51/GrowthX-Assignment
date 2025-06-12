@@ -1,5 +1,6 @@
 # GrowthX SDE-Frontend Assignment
-    It is an assignment given by GrowthX for SDE-frontend role. The application is built with React.js and CSS to showcase smooth Animations and Transitions.
+    It is an assignment given by GrowthX for SDE-frontend role. 
+    The application is built with React.js and CSS to showcase smooth Animations and Transitions.
 
 
 ## **How to install and run locally ?**
