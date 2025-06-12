@@ -1,7 +1,7 @@
 # GrowthX SDE-Frontend Assignment
     It is an assignment given by GrowthX for SDE-frontend role. 
     The application is built with React.js and CSS to showcase smooth Animations and Transitions.
-    The application is deployed to Vercel, you can check the [live demo](https://growth-x-assignment-lyart.vercel.app/)
+    The application is deployed to Vercel, you can check the live demo.
 
 ## **How to install and run locally ?**
 
