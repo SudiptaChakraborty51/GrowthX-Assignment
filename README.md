@@ -16,3 +16,7 @@ $ npm run dev
 
 - React JS
 - CSS with keyframes and animation
+
+## **Demo :**
+
+https://www.loom.com/share/38db0f299cb14005afce5840ef182098?sid=6ba848f0-19fc-466f-a9dd-b3ac49340ab2
